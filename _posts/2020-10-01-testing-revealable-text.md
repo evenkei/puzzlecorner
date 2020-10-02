@@ -10,7 +10,7 @@ date: 2020-10-01
 </details>
 
 <details>
-    <summary class="hint">Hint 2</summary>
+    <summary class="hint">Hint 2: Test with an absurdly long title to see what happens</summary>
     <p>Add two plus two... you're wrong!</p>
 </details>
 

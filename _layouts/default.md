@@ -10,7 +10,7 @@
 		<body>
 			<nav>
 	    		<ul>
-	        		<li><a href="/">Home</a></li>
+	        		<li><a href="/puzzlecorner/">Home</a></li>
 		        	<li><a href="/puzzlecorner/about">About</a></li>
 	    		</ul>
 			</nav>

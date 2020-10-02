@@ -4,6 +4,8 @@
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/puzzlecorner/css/main.css">
+			<!-- set meta viewport for responsive design -->
+			<meta name="viewport" content="width=device-width, initial-scale=1">
 		</head>
 		<body>
 			<nav>

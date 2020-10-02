@@ -42,13 +42,16 @@ ul.posts li {
     list-style: none;
 }
 
+details {
+	margin-bottom: 20px;
+}
+
 details > summary {
 	padding: 4px;
 	width: 200px;
 	border: none;
 	/*box-shadow: 1px 1px 2px #bbbbbb;*/
-	cursor: pointer;
-	margin-bottom: 20px;
+	cursor: pointer;	
 }
 
 summary.hint {

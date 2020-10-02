@@ -54,14 +54,22 @@ details > summary {
 	cursor: pointer;	
 }
 
-summary.hint {
+details > summary.hint {
 	color: #ffffff;
 	background-color: #f4a261;
 }
 
-summary.solution {
+details[open] > summary.hint {
+	background-color: #e76f51;
+}
+
+details > summary.solution {
 	color: #ffffff;
 	background-color: #2a9d8f;
+}
+
+details[open] > summary.solution {
+	background-color: #264653;
 }
 
 details > p {

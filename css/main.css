@@ -41,3 +41,33 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+details > summary {
+	padding: 4px;
+	width: 200px;
+	border: none;
+	/*box-shadow: 1px 1px 2px #bbbbbb;*/
+	cursor: pointer;
+}
+
+summary.hint {
+	color: #ffffff;
+	background-color: #f4a261;
+}
+
+summary.solution {
+	color: #ffffff;
+	background-color: #2a9d8f;
+}
+
+details > p {
+	background-color: #eeeeee;
+	padding: 4px;
+	margin: 0;
+	/*box-shadow: 1px 1px 2px #bbbbbb;*/
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}

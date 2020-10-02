@@ -6,19 +6,18 @@ date: 2020-10-01
 
 <details>
     <summary class="hint">Hint 1</summary>
-    Try eating a mango
+    <p>Try eating a mango</p>
 </details>
 
 <details>
     <summary class="hint">Hint 2</summary>
-    Add two plus two... you're wrong!
+    <p>Add two plus two... you're wrong!</p>
 </details>
 
 <details>
     <summary class="solution">Solution</summary>
-    The answer is cute baby elephant.
+    <p>The answer is cute baby elephant.</p>
 	<img src="/puzzlecorner/images/IMG_20200524_140124.jpg" alt="strange fox">
-	![Clip art of a baby elephant](/puzzlecorner/images/baby_elephant_2.png "BabyElephant")
 </details>
 
 

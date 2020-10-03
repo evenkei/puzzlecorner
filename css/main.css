@@ -78,7 +78,7 @@ details > summary {
 }
 
 details > summary.hint {
-	background-color: #fdbe1e;
+	background-color: #cf66f1;
 }
 /*
 details[open] > summary.hint {

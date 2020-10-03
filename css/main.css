@@ -85,22 +85,22 @@ details[open] > summary.hint {
 	background-color: #d06254;
 }
 
-details > summary.solution {
+details > summary.onlyanswer {
 	color: #ffffff;
 	background-color: #3a9aae;
 }
 
-details[open] > summary.solution {
+details[open] > summary.onlyanswer {
 	background-color: #28869a;
 }
 
-details > summary.onlyanswer {
+details > summary.solution {
 	color: #ffffff;
-	background-color: #688656;
+	background-color: #78a55d;
 }
 
-details[open] > summary.onlyanswer {
-	background-color: #526844;
+details[open] > summary.solution {
+	background-color: #618949;
 }
 
 details > p {

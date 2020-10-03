@@ -97,12 +97,13 @@ details[open] > summary.solution {
 }
 
 details > p {
-	padding: 8px 12px; 
+	padding: 8px 0px; 
 	margin: 0;
 }
 
 div.expandblock {
 	background-color: #eeeeee;
+	padding: 4px 12px;
 }
 
 img {

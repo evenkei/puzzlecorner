@@ -74,11 +74,11 @@ details > summary {
 	border: none;
 	cursor: pointer;
 	font-size: 1.4em;
+	color: #ffffff;
 }
 
 details > summary.hint {
-	color: #ffffff;
-	background-color: #eaad41;
+	background-color: #fdbe1e;
 }
 
 details[open] > summary.hint {
@@ -86,8 +86,7 @@ details[open] > summary.hint {
 }
 
 details > summary.onlyanswer {
-	color: #ffffff;
-	background-color: #3d7fd1;
+	background-color: #3991ff;
 }
 
 details[open] > summary.onlyanswer {
@@ -95,8 +94,7 @@ details[open] > summary.onlyanswer {
 }
 
 details > summary.solution {
-	color: #ffffff;
-	background-color: #d17dec;
+	background-color: #ec5050;
 }
 
 details[open] > summary.solution {

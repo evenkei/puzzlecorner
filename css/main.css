@@ -94,6 +94,15 @@ details[open] > summary.solution {
 	background-color: #28869a;
 }
 
+details > summary.onlyanswer {
+	color: #ffffff;
+	background-color: #688656;
+}
+
+details[open] > summary.onlyanswer {
+	background-color: #526844;
+}
+
 details > p {
 	padding: 8px 0px; 
 }
@@ -107,5 +116,5 @@ img {
 	max-width: 100%;
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
-	display: block;
+display: block;
 }

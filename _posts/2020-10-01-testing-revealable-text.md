@@ -50,6 +50,13 @@ date: 2020-10-01
 </details>
 
 <details>
+    <summary class="onlyanswer">Hint 2</summary>
+    <div class="expandblock">
+		<p>89</p>
+	</div>
+</details>
+
+<details>
     <summary class="solution">Solution</summary>
     <div class="expandblock">
 		<img src="/puzzlecorner/images/IMG_20200524_140124.jpg" alt="strange fox">

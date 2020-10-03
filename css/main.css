@@ -40,6 +40,13 @@ h1 {
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 }
+p.meta {
+	padding: 4px;
+	width: 200px;
+	border: none;
+	font-size: 0.8em;
+	background-color:#eeeeee;
+}
 p {
 	font-size: 1.2em;
 	line-height: 1.6em;

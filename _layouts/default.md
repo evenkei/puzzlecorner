@@ -6,8 +6,8 @@
 			<link rel="stylesheet" type="text/css" href="/puzzlecorner/css/main.css">
 			<!-- set meta viewport for responsive design -->
 			<meta name="viewport" content="width=device-width, initial-scale=1">
-			<!-- H1 font -->
-			<link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" rel="stylesheet">
+			<!-- google fonts -->
+			<link href="https://fonts.googleapis.com/css2?family=Cormorant+Infant&family=Montserrat&display=swap" rel="stylesheet">
 		</head>
 		<body>
 			<nav>

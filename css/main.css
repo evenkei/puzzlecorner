@@ -44,6 +44,8 @@ p {
 	font-size: 1.2em;
 	line-height: 1.6em;
     color: #505050;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
 }
 
 footer {
@@ -64,10 +66,6 @@ ul.posts li {
 
 details {
 	margin-bottom: 20px;
-}
-
-details[open] {
-	padding-bottom: 1em;
 }
 
 details > summary {
@@ -98,7 +96,6 @@ details[open] > summary.solution {
 
 details > p {
 	padding: 8px 0px; 
-	margin: 0;
 }
 
 div.expandblock {

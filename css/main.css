@@ -80,26 +80,26 @@ details > summary {
 details > summary.hint {
 	background-color: #fdbe1e;
 }
-
+/*
 details[open] > summary.hint {
 	background-color: #e08f2b;
-}
+}*/
 
 details > summary.onlyanswer {
 	background-color: #3991ff;
 }
-
+/*
 details[open] > summary.onlyanswer {
 	background-color: #2d5bc4;
-}
+}*/
 
 details > summary.solution {
 	background-color: #ec5050;
 }
-
+/*
 details[open] > summary.solution {
 	background-color: #ac5dd5;
-}
+}*/
 
 details > p {
 	padding: 8px 0px; 

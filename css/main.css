@@ -32,6 +32,7 @@ a:hover {
 h1 {
     font-size: 3em;
 	font-family:'Acme', 'Helvetica', 'Arial', 'Sans-Serif';
+	color: #3b4334;
 }
 p {
     font-size: 1.2em;
@@ -69,20 +70,20 @@ details > summary {
 
 details > summary.hint {
 	color: #ffffff;
-	background-color: #f4a261;
+	background-color: #ea796d;
 }
 
 details[open] > summary.hint {
-	background-color: #e76f51;
+	background-color: #d06254;
 }
 
 details > summary.solution {
 	color: #ffffff;
-	background-color: #2a9d8f;
+	background-color: #3a9aae;
 }
 
 details[open] > summary.solution {
-	background-color: #264653;
+	background-color: #28869a;
 }
 
 details > p {

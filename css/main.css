@@ -5,7 +5,7 @@ html {
 
 body {
     font-family:'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
-	font-size: 1em;
+	font-size: 0.2em;
 	margin: 60px auto;
     width: 80%;
 	max-width: 700px;
@@ -49,6 +49,11 @@ p {
 	-moz-text-size-adjust: none;
 	-ms-text-size-adjust: none;
 }
+
+.sizefix {
+	font-size: 1em;
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;

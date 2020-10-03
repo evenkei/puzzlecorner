@@ -7,7 +7,7 @@
 			<!-- set meta viewport for responsive design -->
 			<meta name="viewport" content="width=device-width, initial-scale=1">
 			<!-- google fonts -->
-			<link href="https://fonts.googleapis.com/css2?family=Cormorant+Infant&family=Roboto&display=swap" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@500&family=Roboto&display=swap" rel="stylesheet">
 		</head>
 		<body>
 			<nav>

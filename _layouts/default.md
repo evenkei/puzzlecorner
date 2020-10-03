@@ -16,12 +16,12 @@
 		</head>
 		<body>
 			<nav>
-	    		<ul class="sizefix">
+	    		<ul>
 	        		<li><a href="/puzzlecorner/">Archive</a></li>
 		        	<li><a href="/puzzlecorner/about">About</a></li>
 	    		</ul>
 			</nav>
-			<div class="container" class="sizefix">
+			<div class="container">
 			
 			
 			{{ content }}

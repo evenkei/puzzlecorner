@@ -6,11 +6,13 @@
 			<link rel="stylesheet" type="text/css" href="/puzzlecorner/css/main.css">
 			<!-- set meta viewport for responsive design -->
 			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<!-- H1 font -->
+			<link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" rel="stylesheet">
 		</head>
 		<body>
 			<nav>
 	    		<ul>
-	        		<li><a href="/puzzlecorner/">Home</a></li>
+	        		<li><a href="/puzzlecorner/">Archive</a></li>
 		        	<li><a href="/puzzlecorner/about">About</a></li>
 	    		</ul>
 			</nav>

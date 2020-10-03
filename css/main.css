@@ -1,14 +1,16 @@
 html {
-	background-image: url('/puzzlecorner/images/PuzzleCornerBG.png');
+	background-image: url('/puzzlecorner/images/PuzzleCornerBG2.png');
 	background-position: center;
 }
 
 body {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	margin: 60px auto;
-    width: 85%;
-	max-width: 800px;
+    width: 80%;
+	max-width: 700px;
 	background-color: #ffffff;
+	box-shadow: 0px 2px 12px 0px #555;
+    padding: 10px 5% 20px 5%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

@@ -1,8 +1,14 @@
+html {
+	background-image: url('/puzzlecorner/images/PuzzleCornerBG.png');
+	background-position: center;
+}
+
 body {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	margin: 60px auto;
     width: 85%;
 	max-width: 800px;
+	background-color: #ffffff;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

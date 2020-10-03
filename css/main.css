@@ -5,9 +5,11 @@ html {
 
 body {
     font-family:'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
+	font-size: 1em;
 	margin: 60px auto;
     width: 80%;
 	max-width: 700px;
+	max-height: 999999px;
 	background-color: #ffffff;
 	box-shadow: 0px 2px 12px 0px #555;
     padding: 10px 5% 20px 5%;
@@ -20,6 +22,9 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 	text-size-adjust: none;
+	-webkit-text-size-adjust: none;
+	-moz-text-size-adjust: none;
+	-ms-text-size-adjust: none;
 }
 a {
     text-decoration: none;
@@ -37,10 +42,12 @@ h1 {
 	margin-bottom: 0.5em;
 }
 p {
-	font-size: 1em;
 	line-height: 1.5em;
     color: #505050;
 	text-size-adjust: none;
+	-webkit-text-size-adjust: none;
+	-moz-text-size-adjust: none;
+	-ms-text-size-adjust: none;
 }
 footer {
     border-top: 1px solid #d5d5d5;

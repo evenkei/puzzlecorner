@@ -78,29 +78,29 @@ details > summary {
 
 details > summary.hint {
 	color: #ffffff;
-	background-color: #ea796d;
+	background-color: #eaad41;
 }
 
 details[open] > summary.hint {
-	background-color: #d06254;
+	background-color: #e08f2b;
 }
 
 details > summary.onlyanswer {
 	color: #ffffff;
-	background-color: #3a9aae;
+	background-color: #3d7fd1;
 }
 
 details[open] > summary.onlyanswer {
-	background-color: #28869a;
+	background-color: #2d5bc4;
 }
 
 details > summary.solution {
 	color: #ffffff;
-	background-color: #78a55d;
+	background-color: #d17dec;
 }
 
 details[open] > summary.solution {
-	background-color: #618949;
+	background-color: #ac5dd5;
 }
 
 details > p {

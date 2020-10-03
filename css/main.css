@@ -41,11 +41,8 @@ h1 {
 	margin-bottom: 0.5em;
 }
 p.meta {
-	padding: 4px;
-	width: 200px;
-	border: none;
-	font-size: 0.8em;
-	background-color:#eeeeee;
+	font-size: 1em;
+	color:#999999;
 }
 p {
 	font-size: 1.2em;

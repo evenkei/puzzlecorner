@@ -7,7 +7,7 @@
 			<!-- set meta viewport for responsive design -->
 			<meta name="viewport" content="width=device-width, initial-scale=1">
 			<!-- google fonts -->
-			<link href="https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@500&family=Roboto&display=swap" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@600&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 			<!-- favicon -->
 			<link rel="apple-touch-icon" sizes="180x180" href="/puzzlecorner/apple-touch-icon.png">
 			<link rel="icon" type="image/png" sizes="32x32" href="/puzzlecorner/favicon-32x32.png">
